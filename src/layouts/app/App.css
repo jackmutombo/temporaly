@@ -1,0 +1,62 @@
+
+@import url(https://fonts.googleapis.com/earlyaccess/notosanssc.css);
+
+body,
+html {
+  font-family: 'Noto Sans SC';
+  font-size: 11px;
+  height: 100%;
+  background-color: #f9f9fc;
+}
+
+.backgroung_image {
+  background-image: url('/public/assets/img/bg.png');
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.modal-dialog-custom-size {
+  min-width: 90%;
+}
+
+a {
+  color: #4da02b !important;
+  text-decoration: none;
+}
+
+.btn-border {
+  border-width: 1px !important;
+  border-color: #4da02b !important;
+  color: #4da02b !important;
+}
+
+.btn-form {
+  background-color: #4da02b!important;
+  color: #fff !important;
+}
+.btn-sec-form {
+  background-color: #4B4F54!important; 
+  color: #fff !important;
+}
+input[type='checkbox'] {
+  accent-color: #4da02b;
+}
+tab {
+  color: #4da02b !important;
+}
+
+.page-item.active .page-link {
+  color: #fff !important;
+  background: #4da02b !important;
+}
+.page-item .page-link {
+  color: #4da02b !important;
+  border-color: #fff !important;
+  font-weight: bold;
+}
+
+.MuiPagination-ul {
+  background-color: white;
+}

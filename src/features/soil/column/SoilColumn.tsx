@@ -1,0 +1,43 @@
+export const soil_data = [
+  {
+    lab: 'Lab Name',
+    sample_date: '2022-08-15',
+    crop: 'Crop Name',
+    depth_top: '50cm',
+    depth_bottom: '50cm',
+    texture: 'Rough',
+    ph: '8',
+    resistance: '120 ohms',
+  },
+  {
+    lab: 'Lab Name',
+    sample_date: '2022-08-15',
+    crop: 'Crop Name',
+    depth_top: '50cm',
+    depth_bottom: '50cm',
+    texture: 'Rough',
+    ph: '8',
+    resistance: '120 ohms',
+  },
+
+  {
+    lab: 'Lab Name',
+    sample_date: '2022-08-15',
+    crop: 'Crop Name',
+    depth_top: '50cm',
+    depth_bottom: '50cm',
+    texture: 'Rough',
+    ph: '8',
+    resistance: '120 ohms',
+  },
+  {
+    lab: 'Lab Name',
+    sample_date: '2022-08-15',
+    crop: 'Crop Name',
+    depth_top: '50cm',
+    depth_bottom: '50cm',
+    texture: 'Rough',
+    ph: '8',
+    resistance: '120 ohms',
+  },
+];

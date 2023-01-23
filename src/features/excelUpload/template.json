@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "file_name": "farm.xsl",
+        "title": "template Farm"
+       
+    },
+    {
+        "id": 2,
+        "file_name": "soil.xsl",
+        "title": "template Soil sample"
+        
+    },
+
+    {
+        "id": 3,
+        "file_name": "leaf.xsl",
+        "title": "template Leaf sample"
+        
+    }
+
+]

@@ -1,0 +1,32 @@
+.input_custom_style,
+::placeholder {
+  border-color: #4da02b !important;
+  font-size: 11px !important;
+}
+
+.input_error_style,
+::placeholder {
+  border-color: #dc3545 !important;
+  border-width: 1.4px !important;
+  font-size: 11px !important;
+}
+.error-message {
+  color: #dc3545;
+  display: inline-block;
+  font-size: 13px;
+  line-height: 20px;
+  margin: 5px 0 0;
+}
+.error label {
+  color: #dc3545;
+}
+.error input[type='text'] {
+  /*background-color: #FFFFFF;*/
+  border: 1px solid #dc3545;
+  outline: none;
+}
+.error .error-message {
+  display: inline-block;
+}
+
+/* TODO: use global color*/
